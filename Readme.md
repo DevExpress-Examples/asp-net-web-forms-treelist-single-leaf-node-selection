@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Tree List for ASP.NET Web Forms - How to restict selection to single leafe node
+# Tree List for ASP.NET Web Forms - How to restict selection to a single leafe node
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e325/)**
 <!-- run online end -->
