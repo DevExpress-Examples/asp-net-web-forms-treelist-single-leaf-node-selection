@@ -11,7 +11,7 @@
 
 This example demonstrates how to disable parent node selection and allow users to select only one leaf node within the [ASPxTreeList](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxTreeList.ASPxTreeList) control.
 
-![](treelist-with-single-node-selection.png.png)
+![](treelist-with-single-node-selection.png)
 
 ## Files to Review
 
