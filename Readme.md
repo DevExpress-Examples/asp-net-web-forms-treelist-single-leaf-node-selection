@@ -6,7 +6,7 @@
 
 # Tree List for ASP.NET Web Forms - How to restrict selection to a single leaf node
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e325/)**
+**[[Run Online]](https://codecentral.devexpress.com/128548258/)**
 <!-- run online end -->
 
 This example demonstrates how to disable parent node selection and allow users to select only one leaf node within the [ASPxTreeList](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxTreeList.ASPxTreeList) control.
